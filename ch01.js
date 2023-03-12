@@ -1,1 +1,2 @@
-console.log("ch1 test");
+// Values, Types, and Operators
+// no exercises
