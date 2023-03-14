@@ -1,15 +1,3 @@
-// ================== if statements ==================
-/*
-et num = Number(prompt("Pick a number"));
-if (num < 10) {
-    console.log("Small");
-} else if (num < 100) {
-    console.log("Medium");
-} else {
-    console.log("Large");
-}
-*/
-
 // ================== while loop ==================
 /*
 let number = 0;
@@ -19,7 +7,6 @@ while (number <= 12) {
 }
 */
 
-
 // ================== do while loops ==================
 /* 
 let yourName;
@@ -28,7 +15,6 @@ do {
 } while (!yourName);
 console.log(yourName); 
 */
-
 
 // ================== for loops ==================
 /* 
